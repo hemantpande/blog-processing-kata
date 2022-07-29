@@ -1,4 +1,4 @@
-# Text processing Kata
+# Blog processing Kata
 
 ## Objective
 The main objective is of this Kata is to focus on below skills
@@ -8,7 +8,7 @@ The main objective is of this Kata is to focus on below skills
 - Making better choice of algorithms
 
 ## Problem statement
-As a developer that writes blog posts I want a tool that helps me to understand better the text I am writing.
+As a developer, that writes blog posts I want a tool that helps me to understand better the text I am writing.
 
 For that I need a way to know the following:
 
@@ -99,3 +99,5 @@ Those are the top 10 words used:
 
 The text has in total 21 words
 ```
+## Credits
+https://katalyst.codurance.com/text-processing 
